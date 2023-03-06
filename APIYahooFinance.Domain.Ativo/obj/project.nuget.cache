@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k0NknC6hd5EnC8C2ALMtj97MoDLS5W9hnKp0We3a5nHwT6J/pArzBb7cf0FqdALB/XKbbDsBrcKTJBlbsAhCTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diego\\source\\repos\\APIYahooFinance\\APIYahooFinance.Domain.Ativo\\APIYahooFinance.Domain.Ativo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

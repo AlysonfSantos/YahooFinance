@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "P//UgdX4shBek2E/ylHx0j2TMLItPdAqk7rYwlYeGV0UCg/2+yEwMFMTmP7G6moobN0ZCploIjmvLNV7EpXCMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diego\\source\\repos\\APIYahooFinance\\APIYahooFinance\\APIYahooFinance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.extensions.apidescription.server\\7.0.3\\microsoft.extensions.apidescription.server.7.0.3.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.openapi\\1.6.2\\microsoft.openapi.1.6.2.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

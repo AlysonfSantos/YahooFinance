@@ -1,0 +1,12 @@
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Domain.Ativo\bin\Debug\net6.0\APIYahooFinance.Domain.Ativo.deps.json
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Domain.Ativo\bin\Debug\net6.0\APIYahooFinance.Domain.Ativo.dll
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Domain.Ativo\bin\Debug\net6.0\APIYahooFinance.Domain.Ativo.pdb
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Domain.Ativo\obj\Debug\net6.0\APIYahooFinance.Domain.Ativo.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Domain.Ativo\obj\Debug\net6.0\APIYahooFinance.Domain.Ativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Domain.Ativo\obj\Debug\net6.0\APIYahooFinance.Domain.Ativo.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Domain.Ativo\obj\Debug\net6.0\APIYahooFinance.Domain.Ativo.AssemblyInfo.cs
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Domain.Ativo\obj\Debug\net6.0\APIYahooFinance.Domain.Ativo.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Domain.Ativo\obj\Debug\net6.0\APIYahooFinance.Domain.Ativo.dll
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Domain.Ativo\obj\Debug\net6.0\refint\APIYahooFinance.Domain.Ativo.dll
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Domain.Ativo\obj\Debug\net6.0\APIYahooFinance.Domain.Ativo.pdb
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Domain.Ativo\obj\Debug\net6.0\ref\APIYahooFinance.Domain.Ativo.dll

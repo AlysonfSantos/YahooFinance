@@ -1,0 +1,12 @@
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Infra.Data\bin\Debug\net6.0\APIYahooFinance.Infra.Data.deps.json
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Infra.Data\bin\Debug\net6.0\APIYahooFinance.Infra.Data.dll
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Infra.Data\bin\Debug\net6.0\APIYahooFinance.Infra.Data.pdb
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Infra.Data\obj\Debug\net6.0\APIYahooFinance.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Infra.Data\obj\Debug\net6.0\APIYahooFinance.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Infra.Data\obj\Debug\net6.0\APIYahooFinance.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Infra.Data\obj\Debug\net6.0\APIYahooFinance.Infra.Data.AssemblyInfo.cs
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Infra.Data\obj\Debug\net6.0\APIYahooFinance.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Infra.Data\obj\Debug\net6.0\APIYahooFinance.Infra.Data.dll
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Infra.Data\obj\Debug\net6.0\refint\APIYahooFinance.Infra.Data.dll
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Infra.Data\obj\Debug\net6.0\APIYahooFinance.Infra.Data.pdb
+C:\Users\Diego\source\repos\APIYahooFinance\APIYahooFinance.Infra.Data\obj\Debug\net6.0\ref\APIYahooFinance.Infra.Data.dll
